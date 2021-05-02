@@ -11,12 +11,22 @@
 }
 
 .time{
+<<<<<<< HEAD:src/UI/Components/Status_bar.module.css
 margin-top: 17px;
 margin-left: 10px;
 }
 
 .size{
     margin-top:17px ;
+=======
+margin-top: 10px;
+margin-left: 6px;
+color: black;
+}
+
+img{
+    margin-top:10px ;
+>>>>>>> origin/master:src/UI/Components/Status_bar.css
     margin-left: 6px;
     margin-bottom: 16px;
     height:20px ;
