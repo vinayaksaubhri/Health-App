@@ -1,10 +1,14 @@
-import React from 'react';
-import Status_bar from './UI/Components/Status_bar'
 
-const App = ()=>{
+import React from "react";
+import Hospitals from "./Screens/Hospitals/Components/Hospitals";
+import Status_bar from './UI/Components/Status_bar'
+const App = () => {
   return (
-    <>
-  <Status_bar/>
-  </>
-  )}
+    <div>
+      <Status_bar/>
+      <Hospitals />
+    </div>
+  );
+};
 export default App;
+
