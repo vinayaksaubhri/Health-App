@@ -1,0 +1,46 @@
+.chatScreen_selftest{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 29px;
+line-height: 43px;
+color: #442257;
+margin-left:146px;
+}
+.chatScreen_chatbox{
+margin-bottom: 10px;
+width: 306px;
+background: #FFFFFF;
+box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.2);
+border-radius: 20px 20px 20px 0px;
+margin-left: 17px;
+text-align:left;
+padding: 10px;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+}
+.chatScreen_buttonstyle{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.2);
+    border-radius: 20px 20px 20px 20px;
+    margin-left: 17px;
+    padding: 10px 10px ;
+ 
+     
+
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 31px;
+margin-bottom: 10px;
+}
+.chatScreen_buttoncontainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

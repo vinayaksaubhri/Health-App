@@ -13,11 +13,13 @@
 }
 
 .time{
-margin-top: 17px;
+margin-top: 10px;
+margin-left: 6px;
+color: black;
 }
 
 img{
-    margin-top:17px ;
+    margin-top:10px ;
     margin-left: 6px;
     margin-bottom: 16px;
     height:20px ;
@@ -25,7 +27,7 @@ img{
 }
 
 .right_bar{
-    
+    margin-right: 6px;
     display: flex;
     justify-content: space-between;
 }
