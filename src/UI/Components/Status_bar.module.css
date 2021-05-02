@@ -2,6 +2,7 @@
 *{
     font-family: Poppins;
 }
+
 .bar{
     width: 414px;
     height: 44px;
@@ -28,3 +29,4 @@ margin-left: 10px;
     display: flex;
     justify-content: space-between;
 }
+
