@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Health-App/static/css/main.c5e09de6.chunk.css",
+    "main.js": "/Health-App/static/js/main.1f2d9d6f.chunk.js",
+    "main.js.map": "/Health-App/static/js/main.1f2d9d6f.chunk.js.map",
+    "runtime-main.js": "/Health-App/static/js/runtime-main.f857bad5.js",
+    "runtime-main.js.map": "/Health-App/static/js/runtime-main.f857bad5.js.map",
+    "static/js/2.609bb132.chunk.js": "/Health-App/static/js/2.609bb132.chunk.js",
+    "static/js/2.609bb132.chunk.js.map": "/Health-App/static/js/2.609bb132.chunk.js.map",
+    "static/js/3.a4ea1578.chunk.js": "/Health-App/static/js/3.a4ea1578.chunk.js",
+    "static/js/3.a4ea1578.chunk.js.map": "/Health-App/static/js/3.a4ea1578.chunk.js.map",
+    "index.html": "/Health-App/index.html",
+    "static/css/main.c5e09de6.chunk.css.map": "/Health-App/static/css/main.c5e09de6.chunk.css.map",
+    "static/js/2.609bb132.chunk.js.LICENSE.txt": "/Health-App/static/js/2.609bb132.chunk.js.LICENSE.txt",
+    "static/media/CTA.565bc98a.svg": "/Health-App/static/media/CTA.565bc98a.svg",
+    "static/media/Call.0326b5e2.svg": "/Health-App/static/media/Call.0326b5e2.svg",
+    "static/media/Doctor.25324d8e.svg": "/Health-App/static/media/Doctor.25324d8e.svg",
+    "static/media/Flag.d0b5a50f.svg": "/Health-App/static/media/Flag.d0b5a50f.svg",
+    "static/media/Message.b8e9c895.svg": "/Health-App/static/media/Message.b8e9c895.svg",
+    "static/media/Network-svg.0e9d928f.svg": "/Health-App/static/media/Network-svg.0e9d928f.svg",
+    "static/media/Test.797bf21a.svg": "/Health-App/static/media/Test.797bf21a.svg",
+    "static/media/Wifi-svg.696cc31a.svg": "/Health-App/static/media/Wifi-svg.696cc31a.svg",
+    "static/media/battery-svg.d87e0f3d.svg": "/Health-App/static/media/battery-svg.d87e0f3d.svg",
+    "static/media/home.a8029912.svg": "/Health-App/static/media/home.a8029912.svg",
+    "static/media/hospital.e5d1c1b3.svg": "/Health-App/static/media/hospital.e5d1c1b3.svg",
+    "static/media/SearchBar.module.css": "/Health-App/static/media/searchIcon.15e104a0.svg",
+    "static/media/vaccine.c7863e15.svg": "/Health-App/static/media/vaccine.c7863e15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f857bad5.js",
+    "static/js/2.609bb132.chunk.js",
+    "static/css/main.c5e09de6.chunk.css",
+    "static/js/main.1f2d9d6f.chunk.js"
+  ]
+}
