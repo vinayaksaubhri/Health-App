@@ -1,8 +1,6 @@
 .nav-bar {
-  width: 100vw;
   position: fixed;
   bottom: 0;
-  left: 0;
   background-color: #ffffff;
   display: flex;
   align-items: center;
@@ -27,7 +25,7 @@
   line-height: 18px;
 }
 .nav-bar__home > span {
-  background-image: url("./Icons/home.svg");
+  background-image: url("../Icons/home.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -35,7 +33,7 @@
   height: 25px;
 }
 .nav-bar__hospital > span {
-  background-image: url("./Icons/hospital.svg");
+  background-image: url("../Icons/hospital.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -43,7 +41,7 @@
   height: 25px;
 }
 .nav-bar__vaccine > span {
-  background-image: url("./Icons/vaccine.svg");
+  background-image: url("../Icons/vaccine.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;

@@ -3,9 +3,6 @@
   height: 40px;
   border: none;
   background-color: white;
-  position: fixed;
-  top: 0;
-  z-index: 5;
   display: flex;
   justify-content: center;
   border-radius: 20px;
@@ -31,7 +28,7 @@
 .search-bar__label {
   height: 16px;
   width: 30px;
-  background-image: url("./Icons/searchIcon.svg");
+  background-image: url("./searchIcon.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;

@@ -1,7 +1,7 @@
 import React from "react";
 
-import NavBar from "../../UI/NavBar";
-import SearchBar from "../../UI/SearchBar";
+
+import SearchBar from "./SearchBar";
 import Hospital from "./Hospital";
 import styles from "./Hospitals.module.css";
 const data = [
@@ -80,7 +80,6 @@ const Hospitals = () => {
           );
         })}
       </div>
-      <NavBar></NavBar>
     </div>
   );
 };

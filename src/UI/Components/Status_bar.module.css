@@ -2,20 +2,12 @@
 *{
     font-family: Poppins;
 }
-.container{
-    width: 414px;
-    height: 896px;
-    background-color: aqua;
-    margin-left: 40%;
-}
-
 .bar{
     width: 414px;
     height: 44px;
     display: flex;
     justify-content: space-between;
     font-weight: 600;
-    background-color: chartreuse;
 }
 
 .time{
@@ -32,27 +24,7 @@ margin-left: 10px;
 }
 
 .right_bar{
-    
+    margin-right: 6px;
     display: flex;
     justify-content: space-between;
-}
-
-.schedule{
-    width: 380px;
-    height: 582px;
-    background-color: yellow;
-    margin-left: 17px;
-    margin-top: 17px;
-    border-radius: 20px;
-}
-
-.input_box{
-    margin-top: 20px;
-}
-
-.input{
-    width: 346px;
-    height: 56px;
-    border-radius: 10px;
-    margin: 10px;
 }

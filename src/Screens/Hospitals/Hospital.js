@@ -1,7 +1,7 @@
 import React from "react";
 
-import HospitalCard from "../../UI/HospitalCard";
-import styles from "./Hospital.module.css"
+import HospitalCard from "../Hospitals/UI/HospitalCard";
+import styles from "../Hospitals/Hospital.module.css"
 const Hospital = (props) => {
   return (
     <HospitalCard>
