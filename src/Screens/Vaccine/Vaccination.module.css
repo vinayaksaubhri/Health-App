@@ -2,8 +2,6 @@
 *{
     font-family: Poppins;
 }
-<<<<<<< HEAD
-=======
 body{
     background-color: black;
 }
@@ -11,42 +9,8 @@ body{
     background-color: white;
     width: 414px;
     height: 896px;
-    margin-left: 40%;
-}
-
->>>>>>> origin/master
-.bar{
-    width: 414px;
-    height: 44px;
-    display: flex;
-    justify-content: space-between;
-    font-weight: 600;
-<<<<<<< HEAD
-=======
     
->>>>>>> origin/master
 }
-
-.time{
-margin-top: 17px;
-margin-left: 10px;
-}
-
-.size{
-    margin-top:17px ;
-    margin-left: 6px;
-    margin-bottom: 16px;
-    height:20px ;
-    width:20px ;
-}
-
-.right_bar{
-    margin-right: 6px;
-    display: flex;
-    justify-content: space-between;
-}
-<<<<<<< HEAD
-=======
 
 .schedule{
     width: 380px;
@@ -122,4 +86,4 @@ margin-left: 10px;
     text-align: center;
     padding-top: 7px;
 }
->>>>>>> origin/master
+
