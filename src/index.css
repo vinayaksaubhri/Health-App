@@ -5,8 +5,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   min-height: 100vh;
+  color: #442257;
   background-color: white;
-
 }
 
 code {

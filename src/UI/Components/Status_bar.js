@@ -8,7 +8,11 @@ import Battery from '../Icons/battery-svg.svg'
 export default function Status_bar() {
     const [time, set_time] = useState('')
     function get_time() {
-        let time = new Date().toLocaleTimeString().slice(0, 5)
+
+        let time=new Date().toTimeString().slice(0,5)
+
+       
+
         set_time(time)
     }
     setInterval(get_time, 1000)
