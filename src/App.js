@@ -15,6 +15,7 @@ const App = () => {
      <Route path="/" exact component={Dashboard}></Route>
      <Route path="/hospital" exact component={Hospitals}></Route>
      <Route path="/ChatScreen" exact component={Vaccination}></Route>
+   
      <Navbar/>
      </Router>
    </div>
