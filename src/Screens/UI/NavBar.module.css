@@ -1,40 +1,52 @@
-.nav-bar{
-    width: 100vw;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    background-color: #FFFFFF;
-    height: 7ex;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    border: 1px solid rgb(82, 79, 79);
-    height: 5rem;
+.nav-bar {
+  width: 100vw;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 414px;
+  height: 60px;
 }
 
-.nav-bar>*{
-    display: flex;
-    flex-direction: column;
+.nav-bar > * {
+  display: flex;
+  flex-direction: column;
+  width: 43px;
+  height: 50px;
+  align-items: center;
 }
 
-.nav-bar__home>span{
-    background-image: url("./Icons/home.svg");
-    height: 4ex;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: contain;
+.nav-bar > * > div {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
 }
-.nav-bar__hospital>span{
-    background-image: url("./Icons/hospital.svg");
-    height: 4ex;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: contain;
+.nav-bar__home > span {
+  background-image: url("./Icons/home.svg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 21.11px;
+  height: 25px;
 }
-.nav-bar__vaccine>span{
-    background-image: url("./Icons/vaccine.svg");
-    height: 4ex;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: contain;
+.nav-bar__hospital > span {
+  background-image: url("./Icons/hospital.svg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 21.11px;
+  height: 25px;
+}
+.nav-bar__vaccine > span {
+  background-image: url("./Icons/vaccine.svg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 21.11px;
+  height: 25px;
 }
