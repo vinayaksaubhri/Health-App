@@ -1,0 +1,40 @@
+.nav-bar{
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #FFFFFF;
+    height: 7ex;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid rgb(82, 79, 79);
+    height: 5rem;
+}
+
+.nav-bar>*{
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-bar__home>span{
+    background-image: url("./Icons/home.svg");
+    height: 4ex;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.nav-bar__hospital>span{
+    background-image: url("./Icons/hospital.svg");
+    height: 4ex;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.nav-bar__vaccine>span{
+    background-image: url("./Icons/vaccine.svg");
+    height: 4ex;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

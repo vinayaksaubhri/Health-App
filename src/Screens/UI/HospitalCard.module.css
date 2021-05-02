@@ -1,0 +1,7 @@
+.hospital-card{
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
