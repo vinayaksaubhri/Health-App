@@ -12,7 +12,8 @@ const App = () => {
   <div className={styles['iphone_frame']} >
      <Router>
      <Status_bar/>
-     <Route path="/home" exact component={Dashboard}></Route>
+     
+     <Route path="/" exact component={Dashboard}></Route>
      <Route path="/hospital" exact component={Hospitals}></Route>
      <Route path="/ChatScreen" exact component={Vaccination}></Route>
    
