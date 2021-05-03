@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Health-App/static/css/main.c5e09de6.chunk.css",
-    "main.js": "/Health-App/static/js/main.1f2d9d6f.chunk.js",
-    "main.js.map": "/Health-App/static/js/main.1f2d9d6f.chunk.js.map",
+    "main.css": "/Health-App/static/css/main.deb848a8.chunk.css",
+    "main.js": "/Health-App/static/js/main.d0299c84.chunk.js",
+    "main.js.map": "/Health-App/static/js/main.d0299c84.chunk.js.map",
     "runtime-main.js": "/Health-App/static/js/runtime-main.f857bad5.js",
     "runtime-main.js.map": "/Health-App/static/js/runtime-main.f857bad5.js.map",
     "static/js/2.609bb132.chunk.js": "/Health-App/static/js/2.609bb132.chunk.js",
@@ -10,26 +10,26 @@
     "static/js/3.a4ea1578.chunk.js": "/Health-App/static/js/3.a4ea1578.chunk.js",
     "static/js/3.a4ea1578.chunk.js.map": "/Health-App/static/js/3.a4ea1578.chunk.js.map",
     "index.html": "/Health-App/index.html",
-    "static/css/main.c5e09de6.chunk.css.map": "/Health-App/static/css/main.c5e09de6.chunk.css.map",
+    "static/css/main.deb848a8.chunk.css.map": "/Health-App/static/css/main.deb848a8.chunk.css.map",
     "static/js/2.609bb132.chunk.js.LICENSE.txt": "/Health-App/static/js/2.609bb132.chunk.js.LICENSE.txt",
-    "static/media/CTA.565bc98a.svg": "/Health-App/static/media/CTA.565bc98a.svg",
-    "static/media/Call.0326b5e2.svg": "/Health-App/static/media/Call.0326b5e2.svg",
-    "static/media/Doctor.25324d8e.svg": "/Health-App/static/media/Doctor.25324d8e.svg",
-    "static/media/Flag.d0b5a50f.svg": "/Health-App/static/media/Flag.d0b5a50f.svg",
-    "static/media/Message.b8e9c895.svg": "/Health-App/static/media/Message.b8e9c895.svg",
-    "static/media/Network-svg.0e9d928f.svg": "/Health-App/static/media/Network-svg.0e9d928f.svg",
-    "static/media/Test.797bf21a.svg": "/Health-App/static/media/Test.797bf21a.svg",
-    "static/media/Wifi-svg.696cc31a.svg": "/Health-App/static/media/Wifi-svg.696cc31a.svg",
-    "static/media/battery-svg.d87e0f3d.svg": "/Health-App/static/media/battery-svg.d87e0f3d.svg",
-    "static/media/home.a8029912.svg": "/Health-App/static/media/home.a8029912.svg",
-    "static/media/hospital.e5d1c1b3.svg": "/Health-App/static/media/hospital.e5d1c1b3.svg",
-    "static/media/SearchBar.module.css": "/Health-App/static/media/searchIcon.15e104a0.svg",
-    "static/media/vaccine.c7863e15.svg": "/Health-App/static/media/vaccine.c7863e15.svg"
+    "static/media/CTA.1898b337.svg": "/Health-App/static/media/CTA.1898b337.svg",
+    "static/media/Call.8737bc6f.svg": "/Health-App/static/media/Call.8737bc6f.svg",
+    "static/media/Doctor.125bd8b6.svg": "/Health-App/static/media/Doctor.125bd8b6.svg",
+    "static/media/Flag.d804b8ac.svg": "/Health-App/static/media/Flag.d804b8ac.svg",
+    "static/media/Message.cb8131bd.svg": "/Health-App/static/media/Message.cb8131bd.svg",
+    "static/media/Network-svg.da13ef4f.svg": "/Health-App/static/media/Network-svg.da13ef4f.svg",
+    "static/media/Test.16fe1adf.svg": "/Health-App/static/media/Test.16fe1adf.svg",
+    "static/media/Wifi-svg.7eaaeb56.svg": "/Health-App/static/media/Wifi-svg.7eaaeb56.svg",
+    "static/media/battery-svg.401ce321.svg": "/Health-App/static/media/battery-svg.401ce321.svg",
+    "static/media/home.1c559f93.svg": "/Health-App/static/media/home.1c559f93.svg",
+    "static/media/hospital.7f7f14a6.svg": "/Health-App/static/media/hospital.7f7f14a6.svg",
+    "static/media/SearchBar.module.css": "/Health-App/static/media/searchIcon.229964d1.svg",
+    "static/media/vaccine.ee7281bd.svg": "/Health-App/static/media/vaccine.ee7281bd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f857bad5.js",
     "static/js/2.609bb132.chunk.js",
-    "static/css/main.c5e09de6.chunk.css",
-    "static/js/main.1f2d9d6f.chunk.js"
+    "static/css/main.deb848a8.chunk.css",
+    "static/js/main.d0299c84.chunk.js"
   ]
 }
